@@ -1,0 +1,7 @@
+{
+  "name": "@brtmvdl/create-frontend",
+  "version": "0.1.0",
+  "description": "Create an easy Front-end Node.js project",
+  "main": "index.js",
+  "license": "MIT"
+}
