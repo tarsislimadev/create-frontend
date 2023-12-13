@@ -3,6 +3,6 @@
   "version": "0.1.2",
   "description": "Create an easy Front-end Node.js project",
   "main": "index.js",
-  "bin": "./bin/index.js",
+  "bin": "index.js",
   "license": "MIT"
 }
