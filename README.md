@@ -11,7 +11,7 @@ Create an easy Front-end Node.js project
 ## how to use
 
 ```bash
-npm init @brtmvdl/frontend
+npx  @brtmvdl/create-frontend
 ```
 
 ## license
